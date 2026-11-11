@@ -1,7 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="445" viewBox="0 0 1000 445">
-<rect width="100%" height="100%" fill="#000"/><text x="20" y="38" fill="#f0f0f0" font-family="Arial" font-size="23" font-weight="700">Resumo geral</text>
-<text x="34" y="100" fill="#58A6FF" font-family="Arial" font-size="25">⌁</text><text x="34" y="151" fill="#f4f4f4" font-family="Arial" font-size="31">—</text><text x="34" y="207" fill="#d0d0d0" font-family="Arial" font-size="20">Commits</text>
-<text x="365" y="100" fill="#A78BFA" font-family="Arial" font-size="25">▧</text><text x="365" y="151" fill="#f4f4f4" font-family="Arial" font-size="31">—</text><text x="365" y="207" fill="#d0d0d0" font-family="Arial" font-size="20">Repositórios</text>
-<text x="696" y="100" fill="#F1C40F" font-family="Arial" font-size="25">☆</text><text x="696" y="151" fill="#f4f4f4" font-family="Arial" font-size="31">—</text><text x="696" y="207" fill="#d0d0d0" font-family="Arial" font-size="20">Estrelas</text>
-<line x1="20" y1="258" x2="980" y2="258" stroke="#242424"/><text x="20" y="322" fill="#f0f0f0" font-family="Arial" font-size="23" font-weight="700">Linguagens mais utilizadas</text>
-<text x="20" y="380" fill="#bdbdbd" font-family="Arial" font-size="18">Aguardando a primeira atualização automática dos dados.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="497" viewBox="0 0 1000 497">
+<rect width="100%" height="100%" fill="#000000"/>
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<text x="20" y="38" fill="#F0F0F0" font-size="23" font-weight="700">Resumo geral</text>
+<text x="34" y="100" fill="#58A6FF" font-size="25">⌁</text>
+<text x="34" y="151" fill="#F4F4F4" font-size="31" font-weight="600">59</text>
+<text x="34" y="207" fill="#D0D0D0" font-size="20">Commits</text>
+<text x="365" y="100" fill="#A78BFA" font-size="25">▧</text>
+<text x="365" y="151" fill="#F4F4F4" font-size="31" font-weight="600">12</text>
+<text x="365" y="207" fill="#D0D0D0" font-size="20">Repositórios</text>
+<text x="696" y="100" fill="#F1C40F" font-size="25">☆</text>
+<text x="696" y="151" fill="#F4F4F4" font-size="31" font-weight="600">0</text>
+<text x="696" y="207" fill="#D0D0D0" font-size="20">Estrelas</text>
+<line x1="20" y1="258" x2="980" y2="258" stroke="#242424" stroke-width="1"/>
+<text x="20" y="322" fill="#F0F0F0" font-size="23" font-weight="700">Linguagens mais utilizadas</text>
+<text x="20" y="380" fill="#EAEAEA" font-size="21" font-weight="600">JavaScript</text>
+<text x="980" y="380" text-anchor="end" fill="#D0D0D0" font-size="20">31.5%</text>
+<rect x="20" y="398" width="960" height="14" rx="7" fill="#252525"/>
+<rect x="20" y="398" width="302.52" height="14" rx="7" fill="#E8D94F"/>
+<text x="20" y="462" fill="#EAEAEA" font-size="21" font-weight="600">CSS</text>
+<text x="980" y="462" text-anchor="end" fill="#D0D0D0" font-size="20">26.4%</text>
+<rect x="20" y="480" width="960" height="14" rx="7" fill="#252525"/>
+<rect x="20" y="480" width="253.19" height="14" rx="7" fill="#398BCB"/>
+<text x="20" y="544" fill="#EAEAEA" font-size="21" font-weight="600">Python</text>
+<text x="980" y="544" text-anchor="end" fill="#D0D0D0" font-size="20">22.2%</text>
+<rect x="20" y="562" width="960" height="14" rx="7" fill="#252525"/>
+<rect x="20" y="562" width="213.27" height="14" rx="7" fill="#3976A8"/>
+<text x="20" y="626" fill="#EAEAEA" font-size="21" font-weight="600">HTML</text>
+<text x="980" y="626" text-anchor="end" fill="#D0D0D0" font-size="20">19.9%</text>
+<rect x="20" y="644" width="960" height="14" rx="7" fill="#252525"/>
+<rect x="20" y="644" width="191.02" height="14" rx="7" fill="#F0643B"/>
+<text x="20" y="481" fill="#777777" font-size="12">Atualizado em 11/11/2026 · Dados públicos do GitHub</text>
+</svg>
