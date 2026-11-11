@@ -1,19 +1,17 @@
 ## 📊 Developer Dashboard
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Luis-Eduardo-S-Proencio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Eduardo-S-Proencio&layout=compact&theme=tokyonight&hide_border=true)
-
-![Gráficos de Contribuição](https://github-readme-activity-graph.vercel.app/graph?username=Luis-Eduardo-S-Proencio&theme=tokyo-night&hide_border=true)
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=Luis-Eduardo-S-Proencio&theme=cyan&hide=stars,prs,issues,hours,streak,commits_week,avg_commits,most_active" width="100%" alt="GitHub Dashboard Stats" />
+</p>
 
 ---
 
 ## 💻 Tecnologias
 
 <div align="center">
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
 </div>
 
 ---
