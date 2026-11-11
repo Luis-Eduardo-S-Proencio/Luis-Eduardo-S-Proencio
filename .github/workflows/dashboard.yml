@@ -1,0 +1,36 @@
+
+name: Atualizar dashboard
+
+on:
+  schedule:
+    - cron: "23 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Gerar dashboard com dados reais
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Luis-Eduardo-S-Proencio
+        run: python scripts/generate_dashboard.py
+
+      - name: Salvar dashboard atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/dashboard.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza dashboard do GitHub"
+            git push
+          fi
