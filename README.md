@@ -1,7 +1,13 @@
 ## 📊 Developer Dashboard
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=Luis-Eduardo-S-Proencio&theme=cyan&hide=stars,prs,issues,hours,streak,commits_week,avg_commits,most_active" width="100%" alt="GitHub Dashboard Stats" />
+  <!-- Gráfico de Linha/Onda Visual de Contribuições -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luis-Eduardo-S-Proencio&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Gráfico de Atividade" />
+</p>
+
+<p align="center">
+  <!-- Estatísticas Resumidas (Sem lista gigante de texto) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Luis-Eduardo-S-Proencio&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues,streak" height="150" alt="Estatísticas GitHub" />
 </p>
 
 ---
